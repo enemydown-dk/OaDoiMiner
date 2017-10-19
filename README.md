@@ -1,2 +1,2 @@
 # OaDoiMiner
-A program for mining the ordoi.org API
+A program for mining the oadoi.org API
